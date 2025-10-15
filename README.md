@@ -55,5 +55,4 @@ The objective is to move the tiles until the configuration matches the target st
 
 ---
 
-## 📁 Project Structure
 
